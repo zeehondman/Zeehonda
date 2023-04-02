@@ -33,7 +33,7 @@ if num_sentences > 15:
         sys.exit(0)
 
 time.sleep(3)
-pyautogui.typewrite("This user has used the ©️Sealosaurus - Window spammer. If this user uses it wrong, it is their fault, not ©️Sealosaurus's.")
+pyautogui.typewrite("This user has used the ©️zeehonda - Window spammer. If this user uses it wrong, it is their fault, not ©️zeehonda's.")
 pyautogui.press("enter")
 time.sleep(0.2)
 pyautogui.typewrite("----------------------------------------------------")
